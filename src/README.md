@@ -52,4 +52,13 @@ udfører deres specifikke handlinger korrekt.
 En af de største udfordringer var opdeling af metoderne i main, så koden 
 blev mere overskuelig og lettere at vedligeholde. 
 Vi har også haft udfordringer med at forstå instanceof og casting, 
-men vi har lært at bruge det korrekt i vores program.
+men vi har lært at bruge det korrekt i vores program. Vi har også haft udfordringer med
+at ligge klasserne i mappe/packages.
+
+
+
+
+
+
+
+
